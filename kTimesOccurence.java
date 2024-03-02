@@ -1,4 +1,4 @@
-// First element to occur k times  ---->
+// First element to occur k times    (GeeksForGeeks)
 
 class Solution
 {
