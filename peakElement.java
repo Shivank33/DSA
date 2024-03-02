@@ -1,3 +1,5 @@
+// Peak element  (GeeksForGeeks)
+
 class Solution
 {
 	// Function to find the peak element
